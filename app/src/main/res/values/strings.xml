@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Tango</string>
+    <string name="app_name">Android Experiments</string>
+    <string name="dialog_error">Error fetching results</string>
 </resources>
